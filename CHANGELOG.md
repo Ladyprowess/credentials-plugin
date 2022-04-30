@@ -382,7 +382,7 @@ Moved to https://github.com/jenkinsci/credentials-plugin/releases starting in 2.
 
 ### Version 1.17 (Oct 17, 2014)
 
--   Simplified handling of uploaded-file certificates on slaves.
+-   Simplified handling of uploaded-file certificates on Agents.
 -   Allowing parameter values to be used from workflow projects.
 -   Improved Javadoc for list box models.
 -   [JENKINS-21051](https://issues.jenkins-ci.org/browse/JENKINS-21051)
